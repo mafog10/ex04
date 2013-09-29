@@ -1,0 +1,6 @@
+name: ex04
+description: A sample command-line application
+dependencies:
+  unittest: any
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
